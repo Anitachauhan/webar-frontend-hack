@@ -10,11 +10,6 @@ npm install
 ```
 * [Clone the backend repo](https://github.com/Anitachauhan/webar-backend-hack.git)
 
-## .ENV file
-Create a .env file in the root of folder.
-```
-BACKEND_URL="http://localhost:5000/api/v1/"
-```
 
 ## Development server
 
@@ -40,6 +35,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ```
 Create a .env file and update the following parameters : 
 PORT=4200
+BACKEND_URL="http://localhost:5000/api/v1/"
 ```
 
 ## Further help
